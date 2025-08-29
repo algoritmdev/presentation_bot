@@ -3,3 +3,6 @@ SQLAlchemy==2.0.30
 aiosqlite==0.20.0
 python-dotenv==1.0.1
 greenlet==3.0.3
+pip>=25.2
+setuptools>=70.0
+wheel>=0.44
