@@ -1,6 +1,7 @@
 pip>=25.2
 setuptools>=70.0
 wheel>=0.44
+
 aiogram==3.7.0
 SQLAlchemy==2.0.30
 aiosqlite==0.20.0
