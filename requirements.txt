@@ -1,9 +1,4 @@
-pip>=25.2
-setuptools>=70.0
-wheel>=0.44
-
 aiogram==3.7.0
 SQLAlchemy==2.0.30
 aiosqlite==0.20.0
 python-dotenv==1.0.1
-greenlet==2.0.2
